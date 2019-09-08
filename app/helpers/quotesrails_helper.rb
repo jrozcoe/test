@@ -1,0 +1,2 @@
+module QuotesrailsHelper
+end
